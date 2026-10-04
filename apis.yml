@@ -39,7 +39,6 @@ apis:
   - name: Coinremitter
     description: "Cryptocurrencies Payment & Prices"
     humanURL: https://coinremitter.com/docs
-    baseURL: https://coinremitter.com/docs
     tags:
       - Cryptocurrency
     properties:
